@@ -1,0 +1,4 @@
+main: fr.skariie.templates.Main
+name: RedisConnection
+version: '1.0'
+author: Skariie_
